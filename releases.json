@@ -1,0 +1,503 @@
+[
+  {
+    "tag": "v1.0",
+    "version": "1.0",
+    "label": "首发存档（原包无版本号，以v1.0排序）",
+    "prerelease": false,
+    "primary_asset": "daily-briefing.zip",
+    "assets": [
+      {
+        "original": "daily-briefing-comparison.zip",
+        "asset": "daily-briefing-comparison-skill-only.zip",
+        "original_sha256": "0b4d381ba65a8d3f24740f89a2f6c011b395bb935777d22524e4d592ca953d2c",
+        "sha256": "9598a79c2a93be0f58a8f55ba0a680a2f3d9c349c75f07700fb92e679c3d9a9c",
+        "bytes": 48217,
+        "removed_files": [
+          "daily-briefing/eval/baseline-prompt.txt",
+          "daily-briefing/eval/cases.json",
+          "daily-briefing/eval/development.json",
+          "daily-briefing/eval/holdout.json",
+          "daily-briefing/tests/fixtures.py",
+          "daily-briefing/tests/test_briefing.py",
+          "comparison/01-同资料整报.txt",
+          "comparison/02-联网整报.txt",
+          "comparison/03-开发案例.txt",
+          "comparison/04-旧规则基线.txt",
+          "comparison/05-保留案例-稍后运行.txt",
+          "comparison/evidence-pack.json",
+          "comparison/status.json",
+          "comparison/开始这里.md",
+          "comparison/评分记录.json"
+        ]
+      },
+      {
+        "original": "daily-briefing.zip",
+        "asset": "daily-briefing.zip",
+        "original_sha256": "782dfac6ec95522593b1ce6f5cc7cfa19bb8f1d5e19b19b58e920a4580aee5b8",
+        "sha256": "9598a79c2a93be0f58a8f55ba0a680a2f3d9c349c75f07700fb92e679c3d9a9c",
+        "bytes": 48217,
+        "removed_files": [
+          "daily-briefing/eval/baseline-prompt.txt",
+          "daily-briefing/eval/cases.json",
+          "daily-briefing/eval/development.json",
+          "daily-briefing/eval/holdout.json",
+          "daily-briefing/tests/fixtures.py",
+          "daily-briefing/tests/test_briefing.py"
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "v1.1",
+    "version": "1.1",
+    "label": "v1.1",
+    "prerelease": false,
+    "primary_asset": "daily-briefing-v1.1.zip",
+    "assets": [
+      {
+        "original": "daily-briefing-comparison-v1.1.zip",
+        "asset": "daily-briefing-comparison-skill-only-v1.1.zip",
+        "original_sha256": "f6274f4b1791ddfe23944144f81f2f84318e835f09ed7cd410ef88b3c12e8e5d",
+        "sha256": "10ec19c8ad4f666160eceea438f9b9b0ccf5feef452560f2458292b91bea5c8f",
+        "bytes": 54665,
+        "removed_files": [
+          "daily-briefing/eval/baseline-prompt.txt",
+          "daily-briefing/eval/cases.json",
+          "daily-briefing/eval/development.json",
+          "daily-briefing/eval/holdout.json",
+          "daily-briefing/tests/fixtures.py",
+          "daily-briefing/tests/test_briefing.py",
+          "daily-briefing/tests/test_regressions.py",
+          "开始这里.md",
+          "comparison/01-同资料整报-v1.1.txt",
+          "comparison/evidence-pack.json",
+          "skill-manifest-v1.1.json"
+        ]
+      },
+      {
+        "original": "daily-briefing-v1.1.zip",
+        "asset": "daily-briefing-v1.1.zip",
+        "original_sha256": "af998c50c1048f5df65bc302092f8d490b5858589f840eb7db5c4a0146384768",
+        "sha256": "10ec19c8ad4f666160eceea438f9b9b0ccf5feef452560f2458292b91bea5c8f",
+        "bytes": 54665,
+        "removed_files": [
+          "daily-briefing/eval/baseline-prompt.txt",
+          "daily-briefing/eval/cases.json",
+          "daily-briefing/eval/development.json",
+          "daily-briefing/eval/holdout.json",
+          "daily-briefing/tests/fixtures.py",
+          "daily-briefing/tests/test_briefing.py",
+          "daily-briefing/tests/test_regressions.py"
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "v1.2",
+    "version": "1.2",
+    "label": "v1.2",
+    "prerelease": false,
+    "primary_asset": "daily-briefing-v1.2.zip",
+    "assets": [
+      {
+        "original": "daily-briefing-comparison-v1.2.zip",
+        "asset": "daily-briefing-comparison-skill-only-v1.2.zip",
+        "original_sha256": "9e7b62cb01f7cdfbdbcaaa2d82559cbe34a888ed3b1481ce2935ab1a9ac5a717",
+        "sha256": "b2ae4a714a262dfd5118929a86996cfdae252e75fafc48d450884ff6063f6784",
+        "bytes": 62554,
+        "removed_files": [
+          "daily-briefing/eval/baseline-prompt.txt",
+          "daily-briefing/eval/cases.json",
+          "daily-briefing/eval/development.json",
+          "daily-briefing/eval/holdout.json",
+          "daily-briefing/tests/fixtures.py",
+          "daily-briefing/tests/test_briefing.py",
+          "daily-briefing/tests/test_regressions.py",
+          "daily-briefing/tests/test_run.py",
+          "skill-manifest-v1.2.json",
+          "comparison/01-同资料整报-v1.2.txt",
+          "comparison/evidence-pack.json",
+          "开始这里.md"
+        ]
+      },
+      {
+        "original": "daily-briefing-v1.2.zip",
+        "asset": "daily-briefing-v1.2.zip",
+        "original_sha256": "85c3569a29429ee02bcb5ab32d8e90ba7f938f5d74be61d8c51dcadf4ed0271d",
+        "sha256": "b2ae4a714a262dfd5118929a86996cfdae252e75fafc48d450884ff6063f6784",
+        "bytes": 62554,
+        "removed_files": [
+          "daily-briefing/eval/baseline-prompt.txt",
+          "daily-briefing/eval/cases.json",
+          "daily-briefing/eval/development.json",
+          "daily-briefing/eval/holdout.json",
+          "daily-briefing/tests/fixtures.py",
+          "daily-briefing/tests/test_briefing.py",
+          "daily-briefing/tests/test_regressions.py",
+          "daily-briefing/tests/test_run.py",
+          "skill-manifest-v1.2.json"
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "v1.3",
+    "version": "1.3",
+    "label": "v1.3",
+    "prerelease": false,
+    "primary_asset": "daily-briefing-v1.3.zip",
+    "assets": [
+      {
+        "original": "daily-briefing-v1.3.zip",
+        "asset": "daily-briefing-v1.3.zip",
+        "original_sha256": "ce557eb63a9c09bc71e45f30f6874f33ada893ad720591e46b11a569112f0436",
+        "sha256": "6327df90934c37f43dc17cdf72136619086b2b5b557d6862d37cf3e4528c969c",
+        "bytes": 62567,
+        "removed_files": [
+          "skill-manifest-v1.3.json",
+          "开始这里.md"
+        ]
+      }
+    ]
+  },
+  {
+    "tag": "v2.0",
+    "version": "2.0",
+    "label": "v2.0",
+    "prerelease": false,
+    "primary_asset": "daily-briefing-v2.0.zip",
+    "assets": [
+      {
+        "original": "daily-briefing-v2.0.zip",
+        "asset": "daily-briefing-v2.0.zip",
+        "original_sha256": "a5786233deb527db074f2e9b7cdf7a6188a73f18f5abf1fb6968d6fb273e1f12",
+        "sha256": "0b579abd628503c781817c4c36f190fe78d9c274f622a6a595ab94925ab0cbe4",
+        "bytes": 85802,
+        "removed_files": []
+      }
+    ]
+  },
+  {
+    "tag": "v2.1",
+    "version": "2.1",
+    "label": "v2.1",
+    "prerelease": false,
+    "primary_asset": "daily-briefing-v2.1.zip",
+    "assets": [
+      {
+        "original": "daily-briefing-v2.1.zip",
+        "asset": "daily-briefing-v2.1.zip",
+        "original_sha256": "4f88cf9c5c7d1ec92ba03202b564a5aa5b7608757df8d648dbdeecf2957660c0",
+        "sha256": "f63ead7107313a029c99eb9622a1d286ca8207a2fb51a0eebceebd983b60908c",
+        "bytes": 94552,
+        "removed_files": []
+      }
+    ]
+  },
+  {
+    "tag": "v3.0",
+    "version": "3.0",
+    "label": "v3.0",
+    "prerelease": false,
+    "primary_asset": "daily-briefing-v3.0.zip",
+    "assets": [
+      {
+        "original": "daily-briefing-v3.0.zip",
+        "asset": "daily-briefing-v3.0.zip",
+        "original_sha256": "42aa7832d6ccef9149b8832a05e5eccccbef560fd1d1c3cdaf596a6b2c2ec546",
+        "sha256": "60dc5353197b7ec861fecfe342ddf2d14acc5f04078d09fed2a546929aeeb95f",
+        "bytes": 112004,
+        "removed_files": []
+      }
+    ]
+  },
+  {
+    "tag": "v3.1",
+    "version": "3.1",
+    "label": "v3.1",
+    "prerelease": false,
+    "primary_asset": "daily-briefing-v3.1.zip",
+    "assets": [
+      {
+        "original": "daily-briefing-v3.1.zip",
+        "asset": "daily-briefing-v3.1.zip",
+        "original_sha256": "7f89c2260e78d2b3cb3c59dc3c80fc9e1f0e1e1ca7b5b30dae89cecf77b303e8",
+        "sha256": "d1c26566e184861770603e2e8c960d1d4dfdfa1156f3cf3b442421351f6df2b5",
+        "bytes": 124399,
+        "removed_files": []
+      }
+    ]
+  },
+  {
+    "tag": "v3.2",
+    "version": "3.2",
+    "label": "v3.2",
+    "prerelease": false,
+    "primary_asset": "daily-briefing-v3.2.zip",
+    "assets": [
+      {
+        "original": "daily-briefing-v3.2.zip",
+        "asset": "daily-briefing-v3.2.zip",
+        "original_sha256": "606a7ae0d8e22af2585fbc93b2fc3d68c6702e069466e56a67367787ae0a0dd0",
+        "sha256": "d3335535da0431f3c00aecefbf25ea1e30ec1dca8c4a62c0dc9a584dfb66c49d",
+        "bytes": 131663,
+        "removed_files": []
+      }
+    ]
+  },
+  {
+    "tag": "v3.3",
+    "version": "3.3",
+    "label": "v3.3",
+    "prerelease": false,
+    "primary_asset": "daily-briefing-v3.3.zip",
+    "assets": [
+      {
+        "original": "daily-briefing-v3.3.zip",
+        "asset": "daily-briefing-v3.3.zip",
+        "original_sha256": "fa2fb31a8a1985925996c195be43257a7accda7a864fed08c54ba4507c937e85",
+        "sha256": "34ceedaa347f7cb329f8785079aa1278244f71258bc5031ce173dd3993335028",
+        "bytes": 154557,
+        "removed_files": []
+      }
+    ]
+  },
+  {
+    "tag": "v3.4",
+    "version": "3.4",
+    "label": "v3.4",
+    "prerelease": false,
+    "primary_asset": "daily-briefing-v3.4.zip",
+    "assets": [
+      {
+        "original": "daily-briefing-v3.4.zip",
+        "asset": "daily-briefing-v3.4.zip",
+        "original_sha256": "e3c9b036328d5ee3e618e9cbb1e3855763815c1e9d3cc6fb0278fbde3fbd96a9",
+        "sha256": "8bb2f1d575bf7e4bed42665bff33215ce1bc396c84dfd03e6f765a816e558474",
+        "bytes": 177451,
+        "removed_files": []
+      }
+    ]
+  },
+  {
+    "tag": "v3.4-layout",
+    "version": "3.4",
+    "label": "v3.4-layout",
+    "prerelease": false,
+    "primary_asset": "daily-briefing-v3.4-layout.zip",
+    "assets": [
+      {
+        "original": "daily-briefing-v3.4-layout.zip",
+        "asset": "daily-briefing-v3.4-layout.zip",
+        "original_sha256": "e4c49b238ad885ead11d963fca48ffd5b566a3f57594abfd908b59a776e2d391",
+        "sha256": "669adfafa3ea7b0a9a540f93c9be7c620f939e0a5f3b761466a32bd6829b33b3",
+        "bytes": 180631,
+        "removed_files": []
+      }
+    ]
+  },
+  {
+    "tag": "v3.5-editorial",
+    "version": "3.5",
+    "label": "v3.5-editorial",
+    "prerelease": false,
+    "primary_asset": "daily-briefing-v3.5-editorial.zip",
+    "assets": [
+      {
+        "original": "daily-briefing-v3.5-editorial.zip",
+        "asset": "daily-briefing-v3.5-editorial.zip",
+        "original_sha256": "271f447a51f36982750d0dffca498241effec06596f6805ec33927c625196455",
+        "sha256": "ebfaf89a5fab4c664b9656db07f5e48e811aa04646bc5e88ca082e412d12fbd2",
+        "bytes": 192362,
+        "removed_files": []
+      }
+    ]
+  },
+  {
+    "tag": "v3.6-sol-quality-time",
+    "version": "3.6",
+    "label": "v3.6-sol-quality-time",
+    "prerelease": false,
+    "primary_asset": "daily-briefing-v3.6-sol-quality-time.zip",
+    "assets": [
+      {
+        "original": "daily-briefing-v3.6-sol-quality-time.zip",
+        "asset": "daily-briefing-v3.6-sol-quality-time.zip",
+        "original_sha256": "bf3937e7baaea48ab9287afa2a0de1de5457dbc0e26f31151b2f33b11408992f",
+        "sha256": "38dcdbc69f81f7c844ce0138d121a82757c6f8b9386b10a45bb37329afe017c8",
+        "bytes": 195804,
+        "removed_files": []
+      }
+    ]
+  },
+  {
+    "tag": "v4.0",
+    "version": "4.0",
+    "label": "v4.0",
+    "prerelease": false,
+    "primary_asset": "daily-briefing-v4.0.zip",
+    "assets": [
+      {
+        "original": "daily-briefing-v4.0.zip",
+        "asset": "daily-briefing-v4.0.zip",
+        "original_sha256": "6c2da78332b8bd7973a265b3ff98088891ae786543b870e1a7e008d14e4c07ac",
+        "sha256": "2406dd854b9923fac087a092e4fc1b4322f49e9e9cb6b5e38df9f8b0dfa40c85",
+        "bytes": 206427,
+        "removed_files": []
+      }
+    ]
+  },
+  {
+    "tag": "v4.0-observation-update",
+    "version": "4.0",
+    "label": "v4.0-observation-update",
+    "prerelease": false,
+    "primary_asset": "daily-briefing-v4.0-observation-update.zip",
+    "assets": [
+      {
+        "original": "daily-briefing-v4.0-observation-update.zip",
+        "asset": "daily-briefing-v4.0-observation-update.zip",
+        "original_sha256": "20d065e7adb1a269c35fb6d1b810187a1b63e5844edfb4cb9b9235e8b96aae99",
+        "sha256": "21c9ddfbeb79a9f6f8408328e35f6c1af000bc45c301006d0ed5e9085ee2fce1",
+        "bytes": 207682,
+        "removed_files": []
+      }
+    ]
+  },
+  {
+    "tag": "v4.0.1-network-permission",
+    "version": "4.0.1",
+    "label": "v4.0.1-network-permission",
+    "prerelease": false,
+    "primary_asset": "daily-briefing-v4.0.1-network-permission.zip",
+    "assets": [
+      {
+        "original": "daily-briefing-v4.0.1-network-permission.zip",
+        "asset": "daily-briefing-v4.0.1-network-permission.zip",
+        "original_sha256": "b78b8bec47c77859bb006f9a2deca558dcd93b4b7924e58fbbc832739f59b7e4",
+        "sha256": "2d9b32cb464b3c56023ff2c38d7eebfee808b220bc383b997730f8e46ec582ea",
+        "bytes": 208357,
+        "removed_files": []
+      }
+    ]
+  },
+  {
+    "tag": "v4.0.2",
+    "version": "4.0.2",
+    "label": "v4.0.2",
+    "prerelease": false,
+    "primary_asset": "daily-briefing-v4.0.2.zip",
+    "assets": [
+      {
+        "original": "daily-briefing-v4.0.2.zip",
+        "asset": "daily-briefing-v4.0.2.zip",
+        "original_sha256": "898b6b48f8b293ee151e8d21e1f489f6b3ef2da30c2ff6c4a84f47f8d1c002a4",
+        "sha256": "dab73af42979aa74d85494f28b2797ec947c355c6499e8c0d367c7fc5836ec8d",
+        "bytes": 209647,
+        "removed_files": []
+      }
+    ]
+  },
+  {
+    "tag": "v4.2-first-release",
+    "version": "4.2",
+    "label": "v4.2-first-release",
+    "prerelease": true,
+    "primary_asset": "daily-briefing-v4.2-first-release.zip",
+    "assets": [
+      {
+        "original": "daily-briefing-v4.2-first-release.zip",
+        "asset": "daily-briefing-v4.2-first-release.zip",
+        "original_sha256": "9f71fa2787e2e8668835e7d17abb2391f11a4a3f5aa7e5a3b9282512309eaad5",
+        "sha256": "42f5c9d4682660042513d35efa8ec4e2da394405629c435dfedd7a973b2216bb",
+        "bytes": 214967,
+        "removed_files": []
+      }
+    ]
+  },
+  {
+    "tag": "v4.2-before-readable",
+    "version": "4.2",
+    "label": "v4.2-before-readable",
+    "prerelease": true,
+    "primary_asset": "daily-briefing-v4.2-before-readable.zip",
+    "assets": [
+      {
+        "original": "daily-briefing-v4.2-before-readable.zip",
+        "asset": "daily-briefing-v4.2-before-readable.zip",
+        "original_sha256": "cc3031a5eb1fee9ef74cdb979710cbe8392c21635c5870dbced28fc8d0b7b1de",
+        "sha256": "cf06a63ec9d0ff5e624b3c9d75a77d2386383dabd017024e8b9156779e50ef01",
+        "bytes": 216075,
+        "removed_files": []
+      }
+    ]
+  },
+  {
+    "tag": "v4.2-before-layout",
+    "version": "4.2",
+    "label": "v4.2排版改造前历史备份",
+    "prerelease": true,
+    "primary_asset": "daily-briefing-before-layout.zip",
+    "assets": [
+      {
+        "original": "daily-briefing-before-layout.zip",
+        "asset": "daily-briefing-before-layout.zip",
+        "original_sha256": "1621821d58a16a6f60f7bc86d6bf4bf7bed216cf60c6f1c39c1a71dc392adc06",
+        "sha256": "37650c5a6a79dff3150792456f9e26ff401962049b49016a0fc9e8690f157c7f",
+        "bytes": 218761,
+        "removed_files": []
+      }
+    ]
+  },
+  {
+    "tag": "v4.2",
+    "version": "4.2",
+    "label": "v4.2",
+    "prerelease": false,
+    "primary_asset": "daily-briefing-v4.2.zip",
+    "assets": [
+      {
+        "original": "daily-briefing-v4.2.zip",
+        "asset": "daily-briefing-v4.2.zip",
+        "original_sha256": "25bb3cc78fdfde3b67a75f9d3a18974a9f9029f7beefc65681e28a77052985d6",
+        "sha256": "de7dd9d79544d2c6b5e34f661a5e7ebf66e63ef9746000793a484dea89780820",
+        "bytes": 218786,
+        "removed_files": []
+      }
+    ]
+  },
+  {
+    "tag": "v4.3",
+    "version": "4.3",
+    "label": "v4.3",
+    "prerelease": false,
+    "primary_asset": "daily-briefing-v4.3.zip",
+    "assets": [
+      {
+        "original": "daily-briefing-v4.3.zip",
+        "asset": "daily-briefing-v4.3.zip",
+        "original_sha256": "77569514dddbed20af4ec14589242670e5ce408b7d173f6c7e0c319e433a2d92",
+        "sha256": "6878b2b8de00ebd5deba60094c20bfcaad21137214a07de61fefbdcbb1585cb2",
+        "bytes": 220513,
+        "removed_files": []
+      }
+    ]
+  },
+  {
+    "tag": "v4.4",
+    "version": "4.4",
+    "label": "v4.4",
+    "prerelease": true,
+    "primary_asset": "daily-briefing-v4.4.zip",
+    "assets": [
+      {
+        "original": "daily-briefing-v4.4.zip",
+        "asset": "daily-briefing-v4.4.zip",
+        "original_sha256": "b81a291e22d943bbe23dc6e6787b1870efc4875b31d30b6ec3d158498aafd082",
+        "sha256": "9fc7523683257bbc01274437863cc182f9a8a43c53f16377f704162c0a623b5b",
+        "bytes": 259764,
+        "removed_files": []
+      }
+    ]
+  }
+]
